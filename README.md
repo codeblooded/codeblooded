@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[LinkedIn](https://linkedin.com/in/codeblooded) | [Discord](https://discord.com/users/benvreed) | [Hacker News](https://news.ycombinator.com/user?id=codeblooded)
+
+I’m Ben, a Software Engineer & Computer Scientist. I live in the San Francisco Bay Area with my wife & dogs, and I currently work as a Software Engineer on Google Search.
+
 <!--
 **codeblooded/codeblooded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
