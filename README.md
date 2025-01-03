@@ -1,20 +1,19 @@
-## Hi there 👋
+# Ben Reed
 
-[LinkedIn](https://linkedin.com/in/codeblooded) | [Discord](https://discord.com/users/benvreed) | [Hacker News](https://news.ycombinator.com/user?id=codeblooded)
+I’m a Software Engineer with full stack experience. I've worked on frameworks, microservices, web applications, embedded scripts, and Kubernetes controllers. I also enjoy deep learning models and iOS development.
 
-I’m Ben, a Software Engineer & Computer Scientist. I live in the San Francisco Bay Area with my wife & dogs. I currently work as a Software Engineer on Google Search.
+I live in the San Francisco Bay Area with my wife & dogs. I currently work on Google Search. 
 
-<!--
-**codeblooded/codeblooded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
+- **Languages:** Go, Java, Python, JavaScript, TypeScript, Swift, C++, Ruby, C#
+- **Tools:** Git, Docker, Kubernetes, GCP, gRPC
+- **Databases:** PostgreSQL, Google Spanner, SQLite, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch
+
+- 💼 [LinkedIn](https://linkedin.com/in/codeblooded)
+- 📰 [Hacker News](https://news.ycombinator.com/user?id=codeblooded)
+
+
+Feel free to connect on open source, discuss tech, or just say hi! 😊
