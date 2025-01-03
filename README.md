@@ -1,8 +1,8 @@
 # Ben Reed
 
-I’m a Software Engineer with full stack experience. I've worked on frameworks, microservices, web applications, embedded scripts, and Kubernetes controllers. I also enjoy deep learning models and iOS development.
+As a Software Engineer with full-stack experience, my work spans frameworks, microservices, web applications, embedded scripts, and Kubernetes controllers. I’m also passionate about deep learning models and iOS development.
 
-I live in the San Francisco Bay Area with my wife & dogs. I currently work on Google Search. 
+My wife and I, along with our two dogs, call the San Francisco Bay Area home. Currently, I work at Google on Search. 
 
 ### Skills
 
