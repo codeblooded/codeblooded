@@ -2,7 +2,7 @@
 
 As a Software Engineer with full-stack experience, my work spans frameworks, microservices, web applications, embedded scripts, and Kubernetes controllers. I’m also passionate about deep learning models and iOS development.
 
-My wife and I, along with our two dogs, call the San Francisco Bay Area home. Currently, I work at Google on Search. 
+My wife, our 2 dogs, and I call the San Francisco Bay Area home. Currently, I work at Google on Search. 
 
 ### Skills
 
