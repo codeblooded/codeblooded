@@ -6,7 +6,7 @@ My wife, our 2 dogs, and I call the San Francisco Bay Area home. I regularly att
 
 ### Experience
 
-- **Google**: I spent over half a decade working in Search, Research and Cloud.
+- **Google**: I spent 5+ years working in Search, Research and Cloud.
   - Built and maintained the frameworks behind the look, feel, and performance of the Search results page.
   - Developed distributed systems to validate medical data pipelines.
   - Tested Google’s global networks and gRPC performance on Kubernetes.
