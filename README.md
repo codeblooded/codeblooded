@@ -2,7 +2,7 @@
 
 I'm a Software Engineer with full-stack experience. I've worked on applications, frameworks, distributed systems, embedded scripts, and Kubernetes controllers. I’m very passionate about deep learning, NLP and information retrieval. I also enjoy working with the iOS SDK.
 
-My wife, our 2 dogs, and I call the San Francisco Bay Area home. You can often find me at SF Meetup Groups.
+My wife, our 2 dogs, and I call the San Francisco Bay Area home. I regularly attend a handful of SF Meetups.
 
 ### Experience
 
