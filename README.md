@@ -6,20 +6,17 @@ My wife, our 2 dogs, and I call the San Francisco Bay Area home. I regularly att
 
 ### Experience
 
-- **Google**: I spent 5+ years working in Search, Research and Cloud.
+- **Google**: I working in Search, Research and Cloud.
   - Built and maintained the frameworks behind the look, feel, and performance of the Search results page.
   - Developed distributed systems to validate medical data pipelines.
   - Tested Google’s global networks and gRPC performance on Kubernetes.
-
 - **Texas Instruments**: built tools to monitor long-running simulations.
-  
 - **IBM**: integrated anonymization and pseudonymization into big data pipelines.
-
 - **Faithlife**: optimized embedded scripts with a CDN and removed a problematic ORM.
 
 ### Skills
 
-- **Languages:** Go, Java, Python, JavaScript, TypeScript, Swift, C++, Ruby, C#
+- **Languages:** Python, Go, Java, JavaScript, TypeScript, Swift, C++, Ruby, C#
 - **Tools:** Git, Docker, Kubernetes, gRPC, NATS, Pandas, Ray (exploring)
 - **Databases:** PostgreSQL, Google Spanner, SQLite, Redis
 - **Cloud Platforms:** GCP, Azure (learning)
