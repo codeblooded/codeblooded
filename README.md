@@ -6,13 +6,13 @@ My wife, our 2 dogs, and I live in the San Francisco Bay Area. You can probably 
 
 ### Experience
 
-- **Google**: worked in Search, Research and Cloud.
+- **Google** (SWE, 2019-2025): worked in Search, Research and Cloud.
   - Built and maintained the frameworks behind the look, feel, and performance of the Search results page.
   - Developed distributed systems to validate medical data pipelines.
   - Tested Google’s networks and gRPC performance on Kubernetes.
-- **Texas Instruments**: built tools to monitor long-running simulations.
-- **IBM**: integrated de-identification / pseudonymization into big data pipelines.
-- **Faithlife**: optimized embedded scripts across the web & removed a problematic ORM from one of their core services.
+- **Texas Instruments** (intern): built tools to monitor long-running simulations.
+- **IBM** (intern): integrated de-identification / pseudonymization into big data pipelines.
+- **Faithlife** (intern): optimized embedded scripts across the web & removed a problematic ORM from one of their core services.
 
 ### Skills
 
