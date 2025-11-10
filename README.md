@@ -17,7 +17,7 @@ My wife, our 2 dogs, and I live in the San Francisco Bay Area.
 ### Skills
 
 - **Languages:** Python, Go, Java, JavaScript, TypeScript, Swift, C++, Ruby, C#
-- **Tools:** Git, Docker, Kubernetes, Protocol Buffers, gRPC, Bazel, NATS, Pandas, Ray (exploring)
+- **Tools:** Git, Docker, Kubernetes, Protocol Buffers, gRPC, Bazel, NATS, Pandas, Colab/Jupyter, Ray (exploring)
 - **Databases:** PostgreSQL, Google Spanner, SQLite, Redis/Valkey, Qdrant (exploring)
 - **UI Frameworks:** React, SwiftUI, UIKit
 - **Cloud Platforms:** GCP, AWS
