@@ -2,7 +2,7 @@
 
 I'm a Software Engineer with full-stack experience. I've worked on everything from Rails Apps to Google's Search Results Page. I'm passionate about applications, frameworks, distributed systems, NLP and IR.
 
-My wife, our 2 dogs, and I live in the San Francisco Bay Area.
+I live & work in the San Francisco Bay Area with my wife & dogs.
 
 ### Experience
 
@@ -25,7 +25,5 @@ My wife, our 2 dogs, and I live in the San Francisco Bay Area.
 ### Get in Touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/codeblooded)
-- 📰 [Hacker News](https://news.ycombinator.com/user?id=codeblooded)
-
 
 Feel free to connect on open source, discuss tech, or just say hi! 😊
